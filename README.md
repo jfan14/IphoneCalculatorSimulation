@@ -1,3 +1,3 @@
 # IphoneCalculatorSimulation
 
-![](image/result.png)
+![](app/src/main/image/result.png)
